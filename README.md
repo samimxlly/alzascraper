@@ -7,7 +7,7 @@ Pro WebDriver je potřeba prohlížeč Chrome
 ChromeDriver (automaticky spravován pomocí webdriver_manager)
 Instalace
 Naklonujte si tento repozitář na své lokální zařízení:
-git clone https://github.com/your-username/alza-mobile-scraper.git
+git clone https://github.com/samimxlly/alzascraper.git
 
 <b>Nainstalujte potřebné Python balíčky:</b>
 pip install selenium beautifulsoup4 webdriver_manager
