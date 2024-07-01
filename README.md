@@ -20,3 +20,4 @@ Skript otevře headless prohlížeč Chrome, přejde na stránku s mobilními te
 Výsledek bude vypsán do konzole, včetně názvu mobilního telefonu, ceny a odkazu.
 <b>Poznámky</b>
 Skript používá headless prohlížeč, aby se během provádění nezobrazovalo uživatelské rozhraní prohlížeče.
+chromedriver.exe by neměl být potřebný
